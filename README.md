@@ -4,7 +4,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QiuBiaoer&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=QiuBiaoer)
 ![](https://stats.justsong.cn/api/nowcoder?id=646076982)
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={QiuBiaoer}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=QiuBiaoer&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 
 
