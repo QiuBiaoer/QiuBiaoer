@@ -1,10 +1,12 @@
 ## Hi there 👋  thanks for your attention!⚡
+![Alt text](https://raw.githubusercontent.com/QiuBiaoer/QiuBiaoer/refs/heads/main/359b1f93-4157-43e3-af0e-aaec328206ff_00001_.webp)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QiuBiaoer&show_icons=true&theme=buefy )](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QiuBiaoer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QiuBiaoer&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=QiuBiaoer)
 ![](https://stats.justsong.cn/api/nowcoder?id=646076982)
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,docker,git,java,py,kubernetes,js,html,css,)](https://skillicons.dev)
+
 
 ## Self Profile ##
 
