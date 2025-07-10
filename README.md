@@ -1,9 +1,10 @@
-## Hi there 👋
+## Hi there 👋  thanks for your attention!⚡
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QiuBiaoer&show_icons=true&theme=buefy )](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QiuBiaoer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QiuBiaoer&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=QiuBiaoer)
 ![](https://stats.justsong.cn/api/nowcoder?id=646076982)
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={QiuBiaoer}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 
 
@@ -20,5 +21,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
