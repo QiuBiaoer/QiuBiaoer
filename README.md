@@ -2,7 +2,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QiuBiaoer&show_icons=true&theme=buefy )](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QiuBiaoer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QiuBiaoer&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![](https://stats.justsong.cn/api/leetcode?username=qiu-piao-er&cn=true)
+![](https://stats.justsong.cn/api/leetcode?username=喝着茶水写demo&cn=true)
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=QiuBiaoer)
 
 
